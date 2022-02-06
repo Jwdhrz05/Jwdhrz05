@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jwdhrz05
-- 👀 I’m interested in Programming / Coding 
-- 🌱 I’m currently learning React Native for App development and I already Learned Front end Web Development
-- 💞️ I’m looking to collaborate with Javascript senior developers 
+- 👀 I’m a Front End Developer using React.
+- 🌱 I’m currently learning React Native for App development.
+- 💞️ I’m looking to collaborate with Javascript developers/Compaines. 
 - 📫 Someone want's to reach me mail on this address: syedjwd110@gmail.com
 
 <!---
